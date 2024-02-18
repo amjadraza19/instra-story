@@ -15,8 +15,8 @@ body{
     justify-content: center;
 }
 #card{
-    height:380px;
-    width:250px;
+    height:420px;
+    width:280px;
     background-color: #fff;
     border-radius: 10px;
     overflow: hidden;
